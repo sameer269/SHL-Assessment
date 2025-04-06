@@ -9,6 +9,10 @@ This notebook presents a machine learning pipeline to predict grammar scores fro
 Given `.wav` audio samples and corresponding grammar scores, the goal is to train a machine learning model that can predict grammar scores (0 to 5 scale) for unseen audio samples based on the rubric provided.
 
 
+## Data-Set Link:
+ **Link: https://www.kaggle.com/competitions/shl-intern-hiring-assessment/data
+
+
 ## Dataset Description
 
 - **train.csv**: Contains 444 audio files with corresponding grammar scores.
